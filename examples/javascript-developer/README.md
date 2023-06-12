@@ -21,7 +21,7 @@ pnpm install
 pnpm nx run-many --target=build
 ```
 
-Make sure to `cd examples/javascript-developer` before running the following commands:
+Make sure to `cd example/javascript-developer` before running the following commands:
 
 ```sh
 mkdir drive
